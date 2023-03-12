@@ -1,0 +1,19 @@
+.levels {
+}
+
+.levels__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 0;
+  list-style: none;
+  background-color: #008966;
+}
+
+.levels__item {
+  padding-top: 8px;
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: white;
+}
